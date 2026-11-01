@@ -33,7 +33,7 @@ The full write-up, with tables, reasoning and limitations, is in [REPORT.md](REP
 You need Python with pandas, numpy, scipy and matplotlib.
 
 ```
-git clone https://github.com/YOUR_USERNAME/economic-divergence-report
+git clone https://github.com/nachiket-1/economic-divergence-report
 cd economic-divergence-report
 python build_data.py
 python analysis.py
